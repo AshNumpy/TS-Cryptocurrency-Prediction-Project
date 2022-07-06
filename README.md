@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.hizliresim.com/s6btw4k.gif" alt="community" />
+  <img src="https://img.freepik.com/free-vector/golden-bitcoin-cryptocurrency-with-hud-candlestick-pattern-digital-coin-btc-business-banner-technology-concept-blockchain-graphic-design-vector_185386-946.jpg" alt="community" />
 </h1>
 
 ## PURPOSE OF THE PROJECT
